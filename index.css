@@ -95,6 +95,14 @@ p {
     text-align: center; 
 
 
+} 
+.register-link{
+    position: fixed;
+    top: 600px;
+    width: 100%;
+    
 }
+
+
 
 
