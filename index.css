@@ -30,7 +30,7 @@ body {
     padding: 25px; /* Відступ від*/
     border-radius: 50px; /* Заокруглені краї*/
     background: rgba(255, 255, 255, 0.2); /* Напівпрозорий білий */
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Тінь */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тінь */
     backdrop-filter: blur(10px); /* Ефект розмиття */
     border: 1px solid rgba(255, 255, 255, 0.14); /* Рамка */
     text-align: center;
